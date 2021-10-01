@@ -46,15 +46,23 @@
 		7913864B270772EC00FBAE69 /* Readme GIF */ = {
 			isa = PBXGroup;
 			children = (
-				791386492707729600FBAE69 /* appRecording.gif */,
 			);
 			path = "Readme GIF";
+			sourceTree = "<group>";
+		};
+		7913864C2707748B00FBAE69 /* appGIFs */ = {
+			isa = PBXGroup;
+			children = (
+				791386492707729600FBAE69 /* appRecording.gif */,
+			);
+			path = appGIFs;
 			sourceTree = "<group>";
 		};
 		7982109D26EBFE2100EFE2FF = {
 			isa = PBXGroup;
 			children = (
 				791386442707713A00FBAE69 /* README.md */,
+				7913864C2707748B00FBAE69 /* appGIFs */,
 				798210A826EBFE2100EFE2FF /* I am Rich */,
 				798210A726EBFE2100EFE2FF /* Products */,
 			);
