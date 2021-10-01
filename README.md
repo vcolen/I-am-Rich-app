@@ -1,6 +1,6 @@
 #  My first app
 
-![GIF demonstrating the app](appGIFs/appGIF)
+![GIF demonstrating the app](appGIFs/appRecording)
 
 ## Hey guys! This is my first ever app, it doesn't have any functionality, the main goal of this project was to learn about:
 - How to set up a new Xcode project.
