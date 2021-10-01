@@ -8,7 +8,6 @@
 
 /* Begin PBXBuildFile section */
 		791386452707713A00FBAE69 /* README.md in Resources */ = {isa = PBXBuildFile; fileRef = 791386442707713A00FBAE69 /* README.md */; };
-		7913864A2707729600FBAE69 /* appRecording.gif in Resources */ = {isa = PBXBuildFile; fileRef = 791386492707729600FBAE69 /* appRecording.gif */; };
 		798210AA26EBFE2100EFE2FF /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 798210A926EBFE2100EFE2FF /* AppDelegate.swift */; };
 		798210AC26EBFE2100EFE2FF /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 798210AB26EBFE2100EFE2FF /* SceneDelegate.swift */; };
 		798210AE26EBFE2100EFE2FF /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 798210AD26EBFE2100EFE2FF /* ViewController.swift */; };
@@ -19,7 +18,6 @@
 
 /* Begin PBXFileReference section */
 		791386442707713A00FBAE69 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
-		791386492707729600FBAE69 /* appRecording.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = appRecording.gif; sourceTree = "<group>"; };
 		798210A626EBFE2100EFE2FF /* I am Rich.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "I am Rich.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		798210A926EBFE2100EFE2FF /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		798210AB26EBFE2100EFE2FF /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -41,18 +39,9 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
-		7913864C2707748B00FBAE69 /* appGIFs */ = {
-			isa = PBXGroup;
-			children = (
-				791386492707729600FBAE69 /* appRecording.gif */,
-			);
-			path = appGIFs;
-			sourceTree = "<group>";
-		};
 		7982109D26EBFE2100EFE2FF = {
 			isa = PBXGroup;
 			children = (
-				7913864C2707748B00FBAE69 /* appGIFs */,
 				791386442707713A00FBAE69 /* README.md */,
 				798210A826EBFE2100EFE2FF /* I am Rich */,
 				798210A726EBFE2100EFE2FF /* Products */,
@@ -139,7 +128,6 @@
 			buildActionMask = 2147483647;
 			files = (
 				798210B626EBFE2200EFE2FF /* LaunchScreen.storyboard in Resources */,
-				7913864A2707729600FBAE69 /* appRecording.gif in Resources */,
 				798210B326EBFE2200EFE2FF /* Assets.xcassets in Resources */,
 				791386452707713A00FBAE69 /* README.md in Resources */,
 				798210B126EBFE2100EFE2FF /* Main.storyboard in Resources */,
