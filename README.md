@@ -1,6 +1,6 @@
 #  My first app
 
-![GIF demonstrating the app](https://media.giphy.com/media/iNq4vqJWt2zORHlonx/giphy.gif)
+![GIF demonstrating the app](https://media.giphy.com/media/H8GwaHI3Zb4dYHNkvG/giphy.gif)
 
 ## Hey guys! This is my first ever app, it doesn't have any functionality, the main goal of this project was to learn about:
 - How to set up a new Xcode project.
